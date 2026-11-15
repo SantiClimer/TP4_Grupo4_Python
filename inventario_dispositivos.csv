@@ -1,0 +1,13 @@
+﻿Hostname;IP;Modelo;Estado
+NUCLEO-B;10.4.255.6;3650;Managed
+NUCLEO-A;10.4.99.1;3650;Managed
+BORDE;10.4.255.5;ISR4300;Managed
+ISP;203.0.113.1;;Wrong credential
+SUC1;10.4.39.1;ISR4300;Managed
+SUC2;10.4.49.1;ISR4300;Managed
+SUC3;10.4.255.30;ISR4300;Managed
+SW-SRV;10.4.99.3;2960;Managed
+SW-HOSTS;10.4.99.2;2960;Managed
+SW-S3;10.4.59.2;2960;Managed
+SW-S2;10.4.49.2;2960;Managed
+SW-S1;10.4.39.2;2960;Managed
