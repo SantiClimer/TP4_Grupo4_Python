@@ -98,5 +98,3 @@ Consideraciones
 Los scripts 02_get-network-device.py y 03_get-host.py requieren un ticket de autenticación válido en el encabezado X-Auth-Token.
 
 El script 04_tabulate.py obtiene el ticket automáticamente.
-
-Antes de publicar el repositorio, se deben quitar las contraseñas y los tickets de autenticación escritos directamente en los archivos.
